@@ -1,5 +1,8 @@
 # Docker - okta-awscli
 
+[![Docker Build Status](https://img.shields.io/docker/build/nickjer/okta-awscli.svg)](https://hub.docker.com/repository/docker/nickjer/okta-awscli)
+[![GitHub License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
+
 Docker image for [okta-awscli](https://github.com/jmhale/okta-awscli) that
 provides Okta authentication for [AWS CLI](https://aws.amazon.com/cli/).
 
